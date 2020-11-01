@@ -1,2 +1,2 @@
-# Hello
+# Coffee
 A simple website about coffee.
